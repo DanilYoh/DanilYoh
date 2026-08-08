@@ -17,31 +17,31 @@ A production-minded foundation for a future founder, specialist, and investor ma
 
 **[Live product-foundation demo](https://startup-zone-danilyoh.vercel.app)**
 
-### [Airline booking platform](https://github.com/DanilYoh/social-network)
+### [Airline booking platform](https://github.com/DanilYoh/airline-booking-frontend)
 
 A large TypeScript application covering ticket search, booking, payments, user flows, and an administrative workspace. Uses React, Redux Toolkit, Chakra UI, Vitest, Testing Library, and MSW.
 
-**[Product tour and team-contribution context](https://github.com/DanilYoh/social-network#product-tour)**
+**[Product tour and team-contribution context](https://github.com/DanilYoh/airline-booking-frontend#product-tour)**
 
-### [Pizza storefront](https://github.com/DanilYoh/Pizza-main)
+### [Pizza storefront](https://github.com/DanilYoh/pizza-storefront)
 
 A typed React storefront with catalog filtering, search, pagination, routing, lazy loading, Redux Toolkit state, and persistent cart behavior.
 
 **[Live demo](https://pizza-storefront-danilyoh.vercel.app)**
 
-### [Flight search](https://github.com/DanilYoh/Aviasales)
+### [Flight search](https://github.com/DanilYoh/flight-search-interface)
 
 A responsive flight-results interface with transfer filters, sorting, asynchronous API loading, Redux state, and resilient loading/error states.
 
 **[Live demo](https://aviasales-orpin.vercel.app)**
 
-### [Article platform](https://github.com/DanilYoh/blog)
+### [Article platform](https://github.com/DanilYoh/react-article-platform)
 
 A React article platform with authentication, profiles, Markdown CRUD, favorites, Redux Toolkit state, resilient API handling, tests, and CI.
 
 **[Live demo](https://blog-danilyoh.vercel.app)**
 
-### [Task manager](https://github.com/DanilYoh/Todo-App-React)
+### [Task manager](https://github.com/DanilYoh/react-task-manager)
 
 A compact React task manager with editing, filtering, relative timestamps, a modern Vite toolchain, automated checks, and a public deployment.
 
