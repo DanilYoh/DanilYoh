@@ -21,6 +21,13 @@ A production-minded marketplace foundation with a secure data model, authorizati
 `Next.js` · `TypeScript` · `Supabase` · `Playwright`<br />
 [Live demo](https://startup-zone-danilyoh.vercel.app) · [Source code](https://github.com/DanilYoh/startup-zone)
 
+### [AgentGate](https://github.com/DanilYoh/AgentGate)
+
+A local pre-commit firewall for reviewing AI-generated changes before they enter a repository.
+
+`TypeScript` · `Node.js` · `Git` · `SARIF`<br />
+[Source code](https://github.com/DanilYoh/AgentGate)
+
 ### [Airline booking platform](https://github.com/DanilYoh/airline-booking-frontend)
 
 A large customer and admin application covering flight search, booking, payments, and account management.
